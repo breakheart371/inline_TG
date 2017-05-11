@@ -3,7 +3,7 @@
  ### New and beautifully 
 
 [![http://t.me/sudo_hacker](https://img.shields.io/badge/Telegram-sudo_hacker-blue.svg)](http://t.me/sudo_hacker)
-[![https://github.com/tgMember/inline_TG](https://img.shields.io/badge/%F0%9F%92%AC_GitHub-tgAPI-green.svg)](https://github.com/tgMember/inline_TG)
+[![https://github.com/breakheart371/inline_TG](https://img.shields.io/badge/%F0%9F%92%AC_GitHub-inline_TG-green.svg)](https://github.com/breakheart371/inline_TG)
 [![http://tgmember.cf](https://img.shields.io/badge/webpage-tgMember-ff69b4.svg)](http://tgmember.cf)
 
 [![https://t.me/blackandwhiteTM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-tgMember-blue.svg)](https://t.me/blackandwhiteTM)
@@ -28,7 +28,7 @@ revoke token
 
 For on Ubuntu 16.04 x64:
 ```bash
-cd $home && git clone https://github.com/tgMember/inline_TG.git && cd inline_TG && chmod 700 launch.sh && ./launch.sh
+cd $home && git clone https://github.com/breakheart371/inline_TG.git && cd inline_TG && chmod 700 launch.sh && ./launch.sh
 ```
 
 press key "y" & "enter"
